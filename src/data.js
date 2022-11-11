@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Houston Blues Radio",
             artist: "HoustonBluesRadio",
-            cover: "https://img.freepik.com/vector-gratis/coleccion-banderas-ondeando_1368-2668.jps",
+            cover: "https://img.freepik.com/vector-gratis/fondo-noticias-tecnologia-tierra-digital_1017-36675.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://ais-sa5.cdnstream1.com/b76353_128mp3",
